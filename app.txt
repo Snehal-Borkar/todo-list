@@ -1,2 +1,1 @@
-#include <iostream.h>
-int a = 10
+  
